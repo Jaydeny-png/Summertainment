@@ -1,0 +1,28 @@
+body {
+    background-image: url("beach.avif");
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 0;
+  }
+  
+  #tinker {
+    width:1000px;
+    height:700px;
+    margin: auto;
+  }
+  
+  h1 {
+  font-family: 'Alkalami', serif;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-family: 'Lobster', cursive;
+  font-family: 'Mali', cursive;
+  font-family: 'Shadows Into Light', cursive;
+      }
+  
+  P {
+    font-family:font-family: 'Alkalami', serif;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-family: 'Lobster', cursive;
+  font-family: 'Mali', cursive;
+  font-family: 'Shadows Into Light', cursive;
+  }
