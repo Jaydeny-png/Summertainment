@@ -1,11 +1,9 @@
-body {
-    background-image: url("beach.avif");
-    background-repeat: no-repeat;
-    background-size: contain;
-    margin-top: 0;
-  }
-  
-  #tinker {
+body{
+  background-color:skyblue;
+}
+
+
+#tinker {
     width:1000px;
     height:700px;
     margin: auto;
@@ -18,11 +16,31 @@ body {
   font-family: 'Mali', cursive;
   font-family: 'Shadows Into Light', cursive;
       }
+
+header {
+  font-family: 'Alkalami', serif;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-family: 'Lobster', cursive;
+  font-family: 'Mali', cursive;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: xx-large;
+      }
   
   P {
-    font-family:font-family: 'Alkalami', serif;
+  font-family:font-family: 'Alkalami', serif;
   font-family: 'Barlow Condensed', sans-serif;
   font-family: 'Lobster', cursive;
   font-family: 'Mali', cursive;
   font-family: 'Shadows Into Light', cursive;
   }
+
+  #h {
+    width: 900%;
+    height: 600;
+    border-radius: 10px;
+    
+    float: left;
+    margin-left: 5%;
+    margin-top: 2.5%;
+  }
+
