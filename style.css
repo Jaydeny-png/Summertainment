@@ -3,11 +3,6 @@ body{
 }
 
 
-#tinker {
-    width:1000px;
-    height:700px;
-    margin: auto;
-  }
   
   h1 {
   font-family: 'Alkalami', serif;
@@ -23,24 +18,16 @@ header {
   font-family: 'Lobster', cursive;
   font-family: 'Mali', cursive;
   font-family: 'Shadows Into Light', cursive;
-  font-size: xx-large;
+  font-size: xxx-large;
+  color: rgb(255, 111, 166);
       }
   
-  P {
-  font-family:font-family: 'Alkalami', serif;
+ p  {
+  font-family: 'Alkalami', serif;
   font-family: 'Barlow Condensed', sans-serif;
   font-family: 'Lobster', cursive;
   font-family: 'Mali', cursive;
   font-family: 'Shadows Into Light', cursive;
   }
 
-  #h {
-    width: 900%;
-    height: 600;
-    border-radius: 10px;
-    
-    float: left;
-    margin-left: 5%;
-    margin-top: 2.5%;
-  }
 
